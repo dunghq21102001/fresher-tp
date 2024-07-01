@@ -3,4 +3,6 @@
 
 // 3
 // 2nd
-const 'commit 1'
+const a = 'commit 1'
+const b ='commit 2'
+let c = 'commit 3'
